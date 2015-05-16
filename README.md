@@ -1,2 +1,2 @@
 # rubylernen2
-hier lerne ich ruby mit einem Buch
+hier lerne ich Ruby on Rails mit einem Buch
